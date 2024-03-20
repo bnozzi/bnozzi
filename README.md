@@ -5,7 +5,7 @@
 
 - 📫 Enviame un coreo **b.pizzipe@gmail.com**
 
-<h3 align="left">Conecta conmigo: </h3>
+<h3 align="left">Conectá conmigo: </h3>
 <p align="left">
 <a href="https://linkedin.com/in/bruno-pizzi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bruno-pizzi" height="30" width="40" /></a>
 </p>
